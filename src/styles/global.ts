@@ -37,7 +37,6 @@ export const GlobalStyle = createGlobalStyle`
   body { 
     background: var(--background);
     -webkit-font-smoothing: antialiased; //para fonts no chrome e navegadores que tem a engine do chrome ficarem mais nítidas no MAC/OSX
-    font-smooth: auto;
   }
 
   body, input, textarea, button {
